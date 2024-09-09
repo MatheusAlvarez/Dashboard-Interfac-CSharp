@@ -12,6 +12,7 @@
  <a href="#user-content--licença">Licença</a>
 </p>
 
+
 ## 📄 Descrição do entregável
 
 - Dashboard (Pasta que contém os arquivos do código desenvolvido)
